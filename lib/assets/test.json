@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": null,
+    "title": "7 Stocks Near Buys Amid Earnings Wave; Will Trump Stock Keep Rising? - Investor's Business Daily",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtYXBwbGUtbWljcm9zb2Z0LWxlYWQtZWFybmluZ3Mtd2F2ZS13aWxsLXRydW1wLXN0b2NrLWR3YWMta2VlcC1yaXNpbmcv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2021-10-22T23:11:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Associated Press",
+    "title": "Plane that crashed in Houston had not flown in 10 months - Fox News",
+    "description": "A private jet that ran off a runway and crashed through a fence before bursting into flames at a Texas airport had not been flown since December",
+    "url": "https://www.foxnews.com/us/plane-crashed-houston-flown-10-months",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/plane7.jpg",
+    "publishedAt": "2021-10-22T23:00:14Z",
+    "content": "A private jet that ran off a runway and crashed through a fence before bursting into flames at a Texas airport had not been flown since December and investigators are looking into maintenance perform… [+1613 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Kevin Stankiewicz",
+    "title": "Boston Beer tossed 'millions of cases' of Truly hard seltzer instead of discounting it, chairman says - CNBC",
+    "description": "Boston Beer Chairman Jim Koch told CNBC the company decided to throw away excess supply of Truly hard seltzer in response to a categorywide sales slowdown.",
+    "url": "https://www.cnbc.com/2021/10/22/boston-beer-tossed-millions-of-cases-of-excess-truly-hard-seltzer-chairman-says.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106964765-16349315952020-11-11t132026z_1465795011_rc211k98b6wz_rtrmadp_0_ab-inbev-usa-seltzer.jpeg?v=1634931921",
+    "publishedAt": "2021-10-22T22:44:02Z",
+    "content": "Boston Beer Chairman Jim Koch told CNBC on Friday the company decided to throw away excess supply of Truly hard seltzer, instead of discounting it, in response to a categorywide sales slowdown.\r\n\"We … [+3096 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WMUR Manchester"
+    },
+    "author": "Tim Callery",
+    "title": "CDC approves more boosters, along with mixing brands of COVID-19 vaccines - WMUR Manchester",
+    "description": "The Centers for Disease Control and Prevention is now backing COVID-19 booster shots for the Moderna and Johnson & Johnson vaccines, as well as mixing different vaccine brands for boosters.",
+    "url": "https://www.wmur.com/article/cdc-approves-more-boosters-along-with-mixing-brands-of-covid-19-vaccines/38040844",
+    "urlToImage": "https://kubrick.htvapps.com/vidthumb/fc7b52eb-a630-4bcb-b753-6371cb70aa82/fc7b52eb-a630-4bcb-b753-6371cb70aa82_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+    "publishedAt": "2021-10-22T22:35:00Z",
+    "content": "MANCHESTER, N.H. —The Centers for Disease Control and Prevention is now backing COVID-19 booster shots for the Moderna and Johnson &amp; Johnson vaccines, as well as mixing different vaccine brands f… [+1628 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "American Airlines employees protest outside headquarters over vaccine mandate - Fox Business",
+    "description": "A crowd of current and former American Airlines employees and their supporters protested outside the carrier's headquarters on Friday over the company's COVID-19 vaccine mandate.",
+    "url": "https://www.foxbusiness.com/economy/american-airlines-employees-protest-outside-headquarters-over-vaccine-mandate",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/10/0/0/American-airlines-Airbus-Getty.jpg?ve=1&tl=1",
+    "publishedAt": "2021-10-22T22:33:33Z",
+    "content": "A group reportedly totaling hundreds of people including current and former American Airlines employees protested outside the company's Fort Worth, Texas, headquarters on Friday, over the carrier's d… [+2845 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "",
+    "title": "Walmart recalls essential-oil infused spray due to dangerous bacteria found - NPR",
+    "description": "Officials are looking into four confirmed cases of the dangerous bacteria discovered in the sprays. Two deaths associated with the bacteria are being investigated.",
+    "url": "https://www.npr.org/2021/10/22/1048188690/walmart-recalls-aromatherapy-spray-dangerous-bacteria",
+    "urlToImage": "https://media.npr.org/assets/img/2021/10/22/better-home-and-garden_wide-485fb942b1d65f6f30166d9248fc4af6fafc8229.jpg?s=1400",
+    "publishedAt": "2021-10-22T22:18:15Z",
+    "content": "Walmart is recalling an essential-oil aromatherapy spray after a \"rare and dangerous bacteria\" that can cause a potentially fatal condition was reported, the Consumer Product Safety Commission says. … [+1047 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Wall Street Journal",
+    "title": "Google charges more than twice its rivals in ad deals, unredacted suit says - Fox Business",
+    "description": "Google takes a cut of 22% to 42% of U.S. ad spending that goes through its systems, according to a newly unredacted lawsuit by state attorneys general, shedding new light on how the search giant profits from its commanding position in the internet economy.",
+    "url": "https://www.foxbusiness.com/technology/google-charges-more-than-twice-its-rivals-in-ad-deals-unredacted-suit-says",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/07/0/0/8fe47fea-Google2.jpg?ve=1&tl=1",
+    "publishedAt": "2021-10-22T21:59:07Z",
+    "content": "Google takes a cut of 22% to 42% of U.S. ad spending that goes through its systems, according to a newly unredacted lawsuit by state attorneys general, shedding new light on how the search giant prof… [+7941 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Yasmin Khorram",
+    "title": "Third juror dismissed in trial of Theranos founder Elizabeth Holmes after judge finds 'good cause' for leave - CNBC",
+    "description": "U.S. District Court Judge Davila said he \"found good cause\" for the dismissal of a third juror in the criminal trial of Theranos founder Elizabeth Holmes.",
+    "url": "https://www.cnbc.com/2021/10/22/third-juror-dismissed-in-trial-of-theranos-founder-elizabeth-holmes-.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106959129-1634057325786-holmes.jpg?v=1634057375",
+    "publishedAt": "2021-10-22T21:19:49Z",
+    "content": "Elizabeth Holmes, founder of Theranos Inc., left, arrives at federal court in San Jose, California, on Tuesday, Oct. 12, 2021.\r\nSAN JOSE, CALIF. -- A third juror was dismissed in Elizabeth Holmes' cr… [+4813 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "NPR",
+    "title": "The Great Resignation : Consider This from NPR - NPR",
+    "description": "A record 4.3 million workers in America quit their jobs in August.<br/><br/>Anthony Klotz coined this ongoing phenomenon \"The Great Resignation.\"<br/><br/>Klotz is an organizational psychologist at Texas A&M University.<br/><br/>In part, he says, the pandemic…",
+    "url": "https://www.npr.org/2021/10/22/1048332481/the-great-resignation-why-people-are-leaving-their-jobs-in-growing-numbers",
+    "urlToImage": "https://media.npr.org/assets/img/2021/10/22/gettyimages-1233161007-edit_wide-410aa8fd283b3667b38b5ef7b03bb0553822dba3.jpg?s=1400",
+    "publishedAt": "2021-10-22T21:00:38Z",
+    "content": "A 'Help Wanted' sign is posted beside Coronavirus safety guidelines in front of a restaurant in Los Angeles, California on May 28, 2021.\r\nFrederic J. Brown/AFP/Getty Images\r\nA record 4.3 million work… [+1313 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Guardian"
+    },
+    "author": "Kari Paul",
+    "title": "Lyft recorded 4000 reports of sexual assault within three years - The Guardian",
+    "description": "Company reveals figures, including 1,800 reports in 2019, as ride-hailing companies face growing safety scrutiny",
+    "url": "https://amp.theguardian.com/technology/2021/oct/22/lyft-sexual-assault-reports-uber-ridesharing",
+    "urlToImage": null,
+    "publishedAt": "2021-10-22T20:54:00Z",
+    "content": "LyftCompany reveals figures, including 1,800 reports in 2019, as ride-hailing companies face growing safety scrutiny\r\nFri 22 Oct 2021 21.46 BST\r\nThe ride-hailing app Lyft received more than 4,000 rep… [+3553 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Des Moines Register"
+    },
+    "author": "Tyler Jett, Des Moines Register",
+    "title": "Striking John Deere employees to receive health insurance, performance bonuses, company says - Des Moines Register",
+    "description": "\"We are taking these steps to demonstrate our commitment to doing what’s right by our employees,\" the company said in a statement.",
+    "url": "https://www.desmoinesregister.com/story/money/business/2021/10/22/john-deere-strike-iowa-union-continue-cover-strikers-health-insurance-bonuses-uaw/6139535001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/10/20/PDEM/70a56801-429e-4452-a3a7-431b523e5a95-1020-Vilsack-015.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+    "publishedAt": "2021-10-22T20:37:30Z",
+    "content": "Deere &amp; Co. will continue to provide health insurance and pay performance bonuses to striking employees.\r\nThe ag and construction machine maker based in Moline, Illinois, announced in a statement… [+2836 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Melissa Repko",
+    "title": "Walmart's corporate workers will return to the office in early November - CNBC",
+    "description": "The big-box retailer is the largest private employer in the country, though most of its workers are based at stores and warehouses.",
+    "url": "https://www.cnbc.com/2021/10/22/walmarts-corporate-workers-will-return-to-the-office-in-early-november.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106799575-1605801039947-gettyimages-1228097035-AFP_1WL3UN.jpeg?v=1615384150",
+    "publishedAt": "2021-10-22T20:30:47Z",
+    "content": "Walmart's corporate employees will begin to return to the company's Arkansas headquarters and other offices across the country in early November, according to a company-wide memo obtained by CNBC.\r\nI… [+2081 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CoinDesk"
+    },
+    "author": "Damanick Dantes, Helene Braun",
+    "title": "Market Wrap: Bitcoin Retreats From All-Time High; Ether Outperforms - CoinDesk",
+    "description": "The ETF enthusiasm has faded but some investors expect pullbacks to remain limited for the remainder of the year.",
+    "url": "https://www.coindesk.com/markets/2021/10/22/market-wrap-bitcoin-retreats-from-all-time-high-ether-outperforms/",
+    "urlToImage": "https://www.coindesk.com/resizer/LRBbeF8uO3LFGs9rD32IQdVwypQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4QGCLQSEKJB6RI2RRW2YIUZAMM.png",
+    "publishedAt": "2021-10-22T20:30:00Z",
+    "content": "Ether, the worlds second-largest cryptocurrency by market capitalization, slipped below the $4,000 price level on Friday. Similar to bitcoin, technical indicators show ether is at its most overbought… [+148 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KXAN.com"
+    },
+    "author": "Grace Reader",
+    "title": "Austin-Travis County hits threshold for Stage 2 COVID-19 risk-based guidelines - KXAN.com",
+    "description": "Though the local health authority hasn’t officially announced that the Austin-Travis County area is moving to Stage 2 COVID-19 risk-based guidelines, the 7-day moving average of hospital admissions fell within the threshold of those guidelines.",
+    "url": "https://www.kxan.com/news/coronavirus/austin-travis-county-hits-threshold-for-stage-2-covid-19-risk-based-guidelines/",
+    "urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2021/08/mask-1.jpg?w=1280",
+    "publishedAt": "2021-10-22T20:27:16Z",
+    "content": "AUSTIN (KXAN) — Though the local health authority hasn’t officially announced that the Austin-Travis County area is moving to Stage 2 COVID-19 risk-based guidelines, the 7-day moving average of hospi… [+2393 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jordan Valinsky, CNN Business",
+    "title": "SkyWest cancels and delays thousands of flights - CNN",
+    "description": "SkyWest, a regional airline that operates flights for several major US carriers, has canceled and delayed thousands of flights over the past two days.",
+    "url": "https://www.cnn.com/2021/10/22/business/skywest-cancellations-delays/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211022144802-skywest-planes-file-super-tease.jpg",
+    "publishedAt": "2021-10-22T20:07:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Jalopnik"
+    },
+    "author": "Owen Bellwood",
+    "title": "Remote California Gas Station Now Charges $7 Per Gallon - Jalopnik",
+    "description": "The only gas station in the town of Gorda, California now charges 67% more than the state average for fuel.",
+    "url": "https://jalopnik.com/remote-california-gas-station-now-charges-7-per-gallon-1847917745",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a557d470c83ed8400a3db10fe71478ce.jpg",
+    "publishedAt": "2021-10-22T20:05:00Z",
+    "content": "Gas is expensive. And these days, increasing taxes on fuel, higher costs of oil extraction and a drive to shift away from fossil fuels all mean that prices could continue to rise in the months and ye… [+1455 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Teslarati"
+    },
+    "author": "Joey Klender",
+    "title": "Tesla Sentry Mode will live stream to your Smartphone, Elon Musk confirms - Teslarati",
+    "description": "Tesla’s Sentry Model will soon livestream directly to the Tesla App on your Smartphone, CEO Elon Musk confirmed via Twitter. For years, Tesla owners have used their eight external cameras for multiple things, including Autopilot and Full Self-Driving operatio…",
+    "url": "https://www.teslarati.com/tesla-sentry-mode-live-stream-update-elon-musk/",
+    "urlToImage": "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-sentry-mode-remote-camera-viewing-ota-software-update-2-1024x553.jpg",
+    "publishedAt": "2021-10-22T20:00:00Z",
+    "content": "Tesla’s Sentry Model will soon livestream directly to the Tesla App on your Smartphone, CEO Elon Musk confirmed via Twitter.\r\nFor years, Tesla owners have used their eight external cameras for multip… [+2371 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Lorie Konish",
+    "title": "Social Security cost-of-living adjustment will give average retirees $92 more a month in 2022. How to estimate how much you'll get - CNBC",
+    "description": "The average monthly Social Security retirement benefit will go up by $92 in 2022. But increases will vary by beneficiary. How to estimate how much you'll get.",
+    "url": "https://www.cnbc.com/2021/10/22/how-to-estimate-your-monthly-social-security-benefit-increase-for-2022.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106779402-1604519721779-gettyimages-492125706-000076146187_Unapproved.jpeg?v=1634928551",
+    "publishedAt": "2021-10-22T19:49:59Z",
+    "content": "After the Social Security Administration announced a record-high cost-of-living adjustment for 2022, many beneficiaries are asking, \"How much bigger will my monthly checks be?\"\r\nPeople who receive So… [+2837 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "David Hollerith",
+    "title": "Bitcoin ETF demand so strong we could bring '2 or 3' new ones to market: Valkyrie CEO - Yahoo Finance",
+    "description": "Digital asset manager Valkyrie launched its Bitcoin Strategy ETF (BTF) on the Nasdaq, as buying fervor for Bitcoin and related financial products cools.",
+    "url": "https://finance.yahoo.com/news/bitcoin-etf-demand-so-strong-we-could-bring-2-or-3-new-ones-to-market-valkyrie-ceo-193827132.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NH1LwX4RhypnWYqyEsDuAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/cefa1240-3043-11ec-b7ef-7b8a6bd425f9",
+    "publishedAt": "2021-10-22T19:49:55Z",
+    "content": "A milestone week that began with the introduction of the first Bitcoin-based exchange traded fund (ETF) ended just as it began with a new fund based on the world's leading cryptocurrency. \r\nOn Friday… [+4428 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Marina Pitofsky",
+    "title": "Donald Trump's social media platform Truth Social hacked by Anonymous - USA TODAY",
+    "description": "Hackers gained access to a private version of former President Trump’s social network and posted images of defecating pigs and more.",
+    "url": "https://www.usatoday.com/story/tech/2021/10/22/donald-trumps-social-media-platform-truth-social-hacked-anonymous/6138301001/",
+    "urlToImage": "https://www.gannett-cdn.com/-mm-/9442ebff27aa307914bc3eee8e6714ec80d9b732/c=0-188-3600-2213/local/-/media/2021/09/08/USATODAY/usatsports/abf6d5c2fef34ce4be011d274baee91c.jpg?width=3200&height=1680&fit=crop",
+    "publishedAt": "2021-10-22T19:18:45Z",
+    "content": "Former President Donald Trump is planning to launch his own social media platform, Truth Social.\r\nUSA TODAY\r\nHackers gained access to a private version of former President Donald Trumps recently anno… [+2451 chars]"
+  }
+]
+}
